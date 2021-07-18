@@ -18,4 +18,4 @@
 ### Screenshot from the chatbot:
 - We can add people's names in the chat bot and their images, as part of brain excercise for the patient, to help them remember their loved ones.
 
-    ![Chatbot SS](https://user-images.githubusercontent.com/36971218/126081847-37153344-74e1-4b82-a666-cc391c0c4c6c.jpeg)
+    <img src = "https://user-images.githubusercontent.com/36971218/126081847-37153344-74e1-4b82-a666-cc391c0c4c6c.jpeg" height="400">
