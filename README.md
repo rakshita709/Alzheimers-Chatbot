@@ -14,6 +14,7 @@
 - Fulfillment (webhook): The code that contains logic to handle requests and also used to pull data from database
 - Firestore Database: Stores the relevant information about user like people/locations
 - Kommunicate: The plugin which has been used to integrate the chatbot with the application
+- Can be integrated into any mobile application using TensorFlow Lite.
 
 ### Screenshot from the chatbot:
 - We can add people's names in the chat bot and their images, as part of brain excercise for the patient, to help them remember their loved ones.
